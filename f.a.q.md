@@ -9,7 +9,7 @@ description: Esta página tem algumas dicas úteis para todo o ES Extended.
 {% hint style="warning" %}
 Quando você está baixando scripts, especialmente os scripts **ES Extended**, existem "**requisitos**".   
 Quais são vitais para eles funcionando corretamente.   
-A ordem de início dos seus scripts no seu **`config.cfg`** é importante.   
+A ordem de início dos seus scripts no seu **`server.cfg`** é importante.   
 Os requisitos para um script devem estar acima do script que o exige, se for carregado posteriormente, o script pode não funcionar como pretendido.   
 Portanto, ter sua ordem de partida correta é vital.
 {% endhint %}
